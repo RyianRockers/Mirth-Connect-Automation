@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T22:33:19.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Mv9K07DMR54deSWCLId0" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T22:39:51.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="pkXXdVm7tdpljD6970_w" version="16.4.5" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1615" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -82,14 +82,23 @@
         <mxCell id="jXtKK_LHuf7qZaL2mGFT-43" value="Mirth Instance API&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="405" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jXtKK_LHuf7qZaL2mGFT-60" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jXtKK_LHuf7qZaL2mGFT-45" target="jXtKK_LHuf7qZaL2mGFT-36">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="410" as="sourcePoint" />
-            <mxPoint x="600" y="360" as="targetPoint" />
+        <mxCell id="jXtKK_LHuf7qZaL2mGFT-64" value="Step 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="615" y="164.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jXtKK_LHuf7qZaL2mGFT-65" value="Step 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="486.1" y="300" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jXtKK_LHuf7qZaL2mGFT-66" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jXtKK_LHuf7qZaL2mGFT-36" target="jXtKK_LHuf7qZaL2mGFT-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="340" as="sourcePoint" />
+            <mxPoint x="620" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jXtKK_LHuf7qZaL2mGFT-61" value="Pull config" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="320" width="70" height="20" as="geometry" />
+        <mxCell id="jXtKK_LHuf7qZaL2mGFT-67" value="Pull Config" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;strokeWidth=5;" connectable="0" vertex="1" parent="jXtKK_LHuf7qZaL2mGFT-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jXtKK_LHuf7qZaL2mGFT-68" value="Step 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="615" y="224.5" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
